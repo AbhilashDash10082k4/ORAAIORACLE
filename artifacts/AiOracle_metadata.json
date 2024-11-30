@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"usd1kbounty.sol": "AiOracle"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"usd1kbounty.sol": {
+			"keccak256": "0x02d9c31c35b63b912c5110c33ad0c8ace6a07070c3d34f69e8bd853123461aee",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://333304d2ee1a1784db76eb19f7ffc75ada30f1cea2f9da360486fa9df43ab1b9",
+				"dweb:/ipfs/QmZMrLyZhuE2JRvW9BryyJkLnFEVfKbBUMDjQzTtctSEmj"
+			]
+		}
+	},
+	"version": 1
+}
